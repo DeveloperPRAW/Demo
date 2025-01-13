@@ -1,2 +1,3 @@
-# Demo
-This is a demo repository.
+# PRAW Demo
+This is a demo GIT repository.
+Author - PRAW
